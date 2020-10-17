@@ -26,10 +26,6 @@ create a folder with name: "dupload" for save file in host
     
  </p>
   
-  <p>
-  حالا درسته میگن گیت هاب اوپن سورسه ولی فک کنم با ما مشکل داره خیلی اذیت کرد
-  </p>
-
 
 </div>
 
