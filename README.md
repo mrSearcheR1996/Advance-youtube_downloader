@@ -1,14 +1,16 @@
 
-[about author]
-mrsearcher1996
+<div><strong>[about author]</strong>
+<p>
 some code write by Tutsplanet and i edited and add other thing to work better
-old code not work with new youtube law !!
+old code not work with new youtube law !
+</p></div>
 
-[install]
+<div><strong>[install]</strong>
 
-just download it and upload to server call index.php
+<p>just download it and upload to server call index.php
 crate a folder dupload for download into host
+</p>
 
 
-[other]
-you can add more tools and edited theme easy
+<div><strong>[other]</strong>
+  <p>you can add more tools and edited theme easy</p></div>
